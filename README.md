@@ -8,6 +8,8 @@ Our core values are:
 * Reliability: Delivering consistent and dependable validation services.
 * Innovation: Continuously advancing with cutting-edge technology and solutions.
 * Community: Engaging and supporting the blockchain community to foster growth and collaboration.
+
+
 Join us as we pave the way for a decentralized future.
 
 
